@@ -2,5 +2,5 @@
 dir=$1
 for image in "$dir"/*.[hH][eE][iI][cC] ;
 do
-    rm "$image"
+    rm -v "$image"
 done
