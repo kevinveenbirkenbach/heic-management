@@ -46,4 +46,4 @@ These scripts are licensed under the [GNU Affero General Public License v3.0](ht
 
 ## Acknowledgement
 
-These scripts were created with the assistance of OpenAI's ChatGPT model. You can learn more about how they were created [here](<Link to the conversation>).
+These scripts were created with the assistance of OpenAI's ChatGPT model. You can learn more about how they were created [here](https://chat.openai.com/share/55de7de1-7c59-496c-bc21-b597ba7da54c).
