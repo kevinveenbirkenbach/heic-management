@@ -14,7 +14,7 @@ for img in $(find "$dir" -type f -iname "*.webp"); do
     base="${img%.*}"
 
     # Convert the image
-    dwebp "$img" -o "$base.jpg"
+    convert "$img" "$base.jpg"
 done
 
 # Restore the IFS to the original state
